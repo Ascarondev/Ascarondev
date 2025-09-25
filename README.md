@@ -34,7 +34,7 @@
 ## 🔹 Technical Skills  
 
 - **Frontend Development**  
-  - Responsive design with **HTML5, CSS3, React, SASS**.  
+  - Responsive design with **HTML5, CSS3, React**.  
   - Dynamic UIs with a focus on accessibility and performance.  
 
 - **Backend Development**  
