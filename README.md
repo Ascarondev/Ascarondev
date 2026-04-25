@@ -1,80 +1,75 @@
-# Hi 👋 My name is Ascaron  
+# Hi 👋 I'm Ascaron  
 
-### Full Stack Developer | Backend Enthusiast | UI/UX Developer  
+### Full Stack Developer | Backend-Focused | UI/UX Enthusiast  
 
 ---
 
-## 🧑‍💻 About Me  
-- 🔭 Currently working on building **scalable web applications** and experimenting with **real-time services**.  
-- 🌱 Learning more about **system design**, **cloud infrastructure**, and **performance optimization**.  
-- 🎯 Passionate about solving **complex problems** with **clean and efficient code**.  
-- 💡 Strong believer in **open-source collaboration** and sharing knowledge with the community.  
-- 🎮 Fun fact: I love experimenting with **game development** and **bot automation**.  
+## 🧑‍💻 Profile  
+Full Stack Developer with a strong backend focus and a deep interest in UI/UX. I specialize in building scalable, high-performance web applications with clean architecture and maintainable code.
+
+I have experience working with real-time systems, automation, and developer tools that solve practical problems. Currently focused on system design, cloud infrastructure, and performance optimization.
+
+🚀 **5M+ developing experience across projects, systems, and automation tools**
 
 ---
 
 ## 🛠️ Languages and Technologies  
 
-**Core Stack**  
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>
+### Core Stack  
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="Lua" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
 </p>
 
 ---
 
-## 🔹 Technical Skills  
+## 🔹 Expertise  
 
-- **Frontend Development**  
-  - Responsive design with **HTML5, CSS3, React**.  
-  - Dynamic UIs with a focus on accessibility and performance.  
+**Frontend Development**  
+- Responsive, accessible, and high-performance UI  
+- Pixel-perfect design implementation  
+- Modern frontend development with React  
 
-- **Backend Development**  
-  - Building REST APIs and real-time applications with **Node.js**.  
-  - Strong knowledge of **database design** (SQL, MongoDB).  
-  - API integrations and authentication systems.  
+**Backend Development**  
+- RESTful APIs & real-time applications with Node.js  
+- Database design and optimization (SQL & NoSQL)  
+- Authentication systems & API integrations  
 
-- **Programming & Scripting**  
-  - **C, Python, Lua, JavaScript** for automation, bots, and performance-heavy tasks.  
-
-- **Databases**  
-  - Relational: **MySQL, SQL**  
-  - NoSQL: **MongoDB**  
-
-- **Other Skills**  
-  - Building Discord bots using **Discord.js**.  
-  - UI Replication: replicate any design into functional UI.  
-  - System optimization and debugging.  
+**Programming & Automation**  
+- Development of tools, bots, and automation systems  
+- Discord bot development using Discord.js  
+- Strong problem-solving in performance-critical environments  
 
 ---
 
-## 📂 Projects & Interests  
+## 📂 Projects & Focus Areas  
 
-- 🌐 **Web Apps** – Full-stack applications combining modern UI and robust backends.  
-- ⚡ **Real-Time Services** – Bots, sockets, and live applications for community interaction.  
-- 🎨 **UI/UX Implementation** – Pixel-perfect user interface replication.  
-- 🛡️ **Automation** – Tools and bots to make life easier for developers and communities.  
-
----
-
-## 🎯 Goals  
-
-- Contribute to more **open-source projects**.  
-- Deepen knowledge in **cloud computing & DevOps**.  
-- Explore **AI integration** into web applications.  
-- Constantly evolve as a **problem solver**.  
+- 🌐 **Web Applications** — full-stack solutions  
+- ⚡ **Real-Time Systems** — sockets, bots, live tools  
+- 🎨 **UI/UX Implementation** — design to production UI  
+- 🛡️ **Automation Tools** — developer workflows & utilities  
 
 ---
 
-## 🤝 Let’s Connect  
-- Always open to **collaborations** and new opportunities.  
-- 📫 Feel free to reach out if you want to work together.  
+## 🎯 Objectives  
 
+- Contribute to open-source projects  
+- Deepen knowledge in cloud infrastructure & DevOps  
+- Explore AI integration in modern web applications  
+- Continuously improve in system design & software architecture  
+
+---
+
+## 🤝 Contact  
+
+Open to collaborations and new opportunities.  
+Feel free to reach out for projects or ideas.
