@@ -1,83 +1,93 @@
-# Hi 👋 I'm Ascaron  
+# Hi 👋 I'm Ascaron
 
-### Full Stack Developer | Backend-Focused | UI/UX Enthusiast  
-
----
-
-## 🧑‍💻 Profile  
-Full Stack Developer with a strong backend focus and a deep interest in UI/UX. I specialize in designing and building scalable, high-performance web applications with clean architecture and maintainable code.
-
-I have hands-on experience with real-time systems, automation, and custom tooling, focusing on solving complex problems efficiently. My development approach is centered around performance, scalability, and writing clean, reliable code.
-
-In addition to web development, I actively work on **FiveM development**, building custom scripts, systems, and server-side logic for multiplayer environments, with a focus on performance, stability, and user experience.
-
-Currently expanding my knowledge in system design, cloud infrastructure, and advanced optimization techniques.
+### Self-Taught Junior Full Stack Developer | Backend-Oriented | UI/UX Enthusiast
 
 ---
 
-## 🛠️ Languages and Technologies  
+## 🧑‍💻 Profile
 
-### Core Stack  
+Self-taught Junior Full Stack Developer with a strong interest in backend development, scalable systems, and modern web technologies. I enjoy building efficient, maintainable applications while continuously expanding my knowledge through hands-on projects and real-world problem solving.
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="Lua" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
-</p>
+My primary focus is on backend development, API design, database architecture, and automation, while also maintaining a strong appreciation for clean, user-friendly interfaces and UI/UX principles.
+
+Alongside web development, I actively develop custom systems and scripts for FiveM servers, working with multiplayer environments, server-side logic, and performance optimization.
+
+Currently focused on improving my skills in software architecture, system design, cloud technologies, and modern development practices.
+
+---
+## 🛠️ Technologies & Tools
+
+### Core Technologies
+
+* HTML5
+* CSS3
+* JavaScript
+* Python
+* Lua
+* MongoDB
+* MySQL
+
+### Currently Learning
+
+* Node.js
+* React
+* C
 
 ---
 
-## 🔹 Expertise  
 
-**Frontend Development**  
-- Building responsive, accessible, and high-performance user interfaces  
-- Pixel-perfect UI implementation from design to production  
-- Modern frontend architecture using React  
+## 🔹 Areas of Interest
 
-**Backend Development**  
-- Designing RESTful APIs and real-time systems with Node.js  
-- Database architecture, optimization, and data modeling (SQL & NoSQL)  
-- Secure authentication systems and third-party API integrations  
+### Frontend Development
 
-**FiveM Development**  
-- Custom script development using Lua & JavaScript  
-- Server-side systems, optimization, and performance tuning  
-- Gameplay mechanics, automation, and scalable server architecture  
+* Responsive and accessible user interfaces
+* Modern React applications
+* UI implementation and user experience improvements
 
-**Programming & Automation**  
-- Building tools, bots, and automation systems  
-- Discord bot development using Discord.js  
-- Strong debugging and problem-solving in performance-critical environments  
+### Backend Development
 
----
+* REST API development with Node.js
+* Database design and optimization
+* Authentication and authorization systems
+* Third-party API integrations
 
-## 📂 Projects & Focus Areas  
+### FiveM Development
 
-- 🌐 **Web Applications** — scalable full-stack solutions  
-- ⚡ **Real-Time Systems** — sockets, bots, and live interaction tools  
-- 🎮 **FiveM Systems** — custom multiplayer server development  
-- 🎨 **UI/UX Implementation** — transforming design into production-ready interfaces  
-- 🛡️ **Automation Tools** — improving workflows and developer productivity  
+* Custom server-side systems
+* Lua and JavaScript scripting
+* Performance optimization and debugging
+* Gameplay and automation systems
+
+### Automation & Tooling
+
+* Discord bot development
+* Workflow automation
+* Custom tools for productivity and server management
 
 ---
 
-## 🎯 Objectives  
+## 📂 Current Focus
 
-- Contribute to impactful open-source projects  
-- Deepen expertise in cloud infrastructure & DevOps  
-- Explore AI integration in modern applications  
-- Continuously improve in system design and software architecture  
+* 🌐 Full Stack Web Applications
+* ⚡ Real-Time Systems & Integrations
+* 🎮 FiveM Development
+* 🎨 UI/UX Implementation
+* 🛠️ Developer Tools & Automation
 
 ---
 
-## 🤝 Contact  
+## 🎯 Goals
 
-Open to collaborations, freelance work, and new opportunities.  
-Feel free to reach out for projects, ideas, or partnerships.
+* Gain professional experience as a software developer
+* Contribute to open-source projects
+* Expand knowledge in cloud infrastructure and DevOps
+* Learn advanced system design principles
+* Explore AI-powered applications and integrations
+
+---
+
+## 🤝 Contact
+
+Open to collaborations, freelance opportunities, and junior developer positions.
+
+Feel free to reach out if you'd like to work together or discuss ideas and projects.
