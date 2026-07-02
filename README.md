@@ -58,12 +58,6 @@ Currently focused on improving my skills in software architecture, system design
 * Performance optimization and debugging
 * Gameplay and automation systems
 
-### Automation & Tooling
-
-* Discord bot development
-* Workflow automation
-* Custom tools for productivity and server management
-
 ---
 
 ## 📂 Current Focus
